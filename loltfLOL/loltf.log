@@ -1,0 +1,809 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  driverdefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10706,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11018,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14865,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14874,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  External.cpp
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(127,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(127,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(127,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(163,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(164,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(165,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(167,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(168,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(169,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(171,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(172,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(173,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(174,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(175,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(176,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(178,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(179,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(180,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(183,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(184,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(185,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(186,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(188,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(190,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(191,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(232,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10706,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11018,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14865,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14874,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(21,6): message : see declaration of 'hwnd'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(25,33): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(32,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(108,47): warning C4458: declaration of 'ProcessId' hides class member
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(21,7): message : see declaration of 'Driver::ProcessId'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(250,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(7,1): warning C4005: 'IM_ARRAYSIZE': macro redefinition
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Imgui/imgui.h(87): message : see previous definition of 'IM_ARRAYSIZE'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Keybind.h(785,21): warning C4459: declaration of 'aimkeys' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(37,20): message : see declaration of 'aimkeys'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(14,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(15,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(40,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(41,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(42,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Aimbot.cpp(42,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(28,55): warning C4100: 'code': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(28,45): warning C4100: 'line': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(28,35): warning C4100: 'file': unreferenced formal parameter
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(2,63): warning C4459: declaration of 'color' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(496,3): message : see declaration of 'color'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(6,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(7,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(10,46): warning C4459: declaration of 'h' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(10,55): warning C4459: declaration of 'color' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(496,3): message : see declaration of 'color'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(13,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(13,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(13,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(13,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(16,80): warning C4459: declaration of 'h' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(16,80): warning C4459: declaration of 'color' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(496,3): message : see declaration of 'color'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(20,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(21,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(22,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(22,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(22,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(22,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(23,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(23,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(23,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(23,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(24,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(24,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(24,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(24,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(25,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(25,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(25,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(25,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(26,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(26,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(26,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(26,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(27,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(27,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(27,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(27,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(28,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(28,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(28,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(28,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(29,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(29,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(29,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(29,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(32,53): warning C4459: declaration of 'color' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(496,3): message : see declaration of 'color'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\DrawEsp.h(35,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(14,4): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(24,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(25,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(26,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(27,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(28,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(29,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(31,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(32,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(33,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(35,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(36,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(37,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(39,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(40,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(41,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(43,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(44,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(45,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\W2S_ Camera.h(63,33): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(217,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(229,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(233,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(237,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(241,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(245,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(249,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(253,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(257,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(261,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(265,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(269,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(273,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(277,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(281,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(285,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(289,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(293,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(297,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(301,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(305,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(309,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(313,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(317,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(321,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(325,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(329,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(333,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(337,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(341,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(345,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(349,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(353,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(357,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(361,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(365,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(369,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(373,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(377,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(381,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(385,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(389,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(393,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(397,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(401,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(405,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(409,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(413,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(417,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(421,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(425,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(429,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(484,8): warning C4189: 'Style': local variable is initialized but not referenced
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(491,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(491,6): warning C4189: 'len': local variable is initialized but not referenced
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(512,53): warning C4459: declaration of 'color' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Cheat.h(496,3): message : see declaration of 'color'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(523,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(524,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(528,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(528,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(529,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(529,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(530,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(530,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(531,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(531,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(533,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(76,9): warning C4189: 'handle': local variable is initialized but not referenced
+External.cpp(80,26): warning C4100: 'test': unreferenced formal parameter
+External.cpp(96,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(96,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(102,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(103,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(104,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(116,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(116,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(116,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(116,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(117,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(117,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(117,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(117,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(118,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(118,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(118,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(118,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(119,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(119,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(119,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(119,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(125,21): warning C4459: declaration of 'fovcircle' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(17,6): message : see declaration of 'fovcircle'
+External.cpp(126,28): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(20,6): message : see declaration of 'fovcirclefilled'
+External.cpp(129,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(129,68): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(129,53): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(130,22): warning C4459: declaration of 'square_fov' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(18,6): message : see declaration of 'square_fov'
+External.cpp(131,21): warning C4459: declaration of 'fovcircle' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(17,6): message : see declaration of 'fovcircle'
+External.cpp(132,28): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(20,6): message : see declaration of 'fovcirclefilled'
+External.cpp(135,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(135,74): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(135,59): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(136,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(136,68): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(136,53): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(137,22): warning C4459: declaration of 'square_fov' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(18,6): message : see declaration of 'square_fov'
+External.cpp(138,21): warning C4459: declaration of 'fovcircle' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\definitions.h(17,6): message : see declaration of 'fovcircle'
+External.cpp(150,26): warning C4459: declaration of 'closestPawn' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\MainIncludes.h(43,11): message : see declaration of 'closestPawn'
+External.cpp(178,31): warning C4459: declaration of 'CurrentActorMesh' hides global declaration
+External.cpp(107,11): message : see declaration of 'CurrentActorMesh'
+External.cpp(212,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(213,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(239,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(239,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(239,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(239,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(245,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(245,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(245,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(245,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(249,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(249,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(249,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(249,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(253,31): warning C4456: declaration of 'CurrentWeapon' hides previous local declaration
+External.cpp(186,13): message : see declaration of 'CurrentWeapon'
+External.cpp(258,92): warning C4244: 'argument': conversion from 'float' to 'ImU32', possible loss of data
+External.cpp(258,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(258,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(258,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(258,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(259,92): warning C4244: 'argument': conversion from 'float' to 'ImU32', possible loss of data
+External.cpp(259,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(259,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(259,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(259,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(260,92): warning C4244: 'argument': conversion from 'float' to 'ImU32', possible loss of data
+External.cpp(260,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(260,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(260,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(260,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(261,92): warning C4244: 'argument': conversion from 'float' to 'ImU32', possible loss of data
+External.cpp(261,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(261,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(261,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(261,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(268,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(268,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(268,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(268,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(268,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(272,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(272,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(272,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(272,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(272,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(278,25): warning C4456: declaration of 'vHeadBone' hides previous local declaration
+External.cpp(206,11): message : see declaration of 'vHeadBone'
+External.cpp(294,28): warning C4456: declaration of 'vHeadBoneOut' hides previous local declaration
+External.cpp(208,11): message : see declaration of 'vHeadBoneOut'
+External.cpp(310,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(310,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(310,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(310,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(310,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(311,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(311,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(311,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(311,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(311,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(312,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(312,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(312,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(312,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(312,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(313,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(313,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(313,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(313,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(313,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(314,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(314,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(314,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(314,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(314,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(315,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(315,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(315,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(315,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(315,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(316,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(316,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(316,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(316,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(316,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(317,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(317,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(317,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(317,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(317,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(318,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(318,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(318,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(318,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(318,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(319,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(319,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(319,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(319,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(319,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(320,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(320,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(320,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(320,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(320,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(321,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(321,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(321,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(321,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(321,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(322,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(322,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(322,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(322,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(322,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(323,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(323,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(323,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(323,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(323,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(329,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(329,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(329,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(333,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(333,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(333,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(344,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(344,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(344,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(344,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(345,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(345,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(345,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(345,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(346,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(346,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(346,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(346,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(347,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(347,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(347,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(347,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(348,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(348,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(348,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(348,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(349,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(349,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(349,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(349,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(350,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(350,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(350,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(350,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(351,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(351,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(351,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(351,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(358,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(358,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(363,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(363,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(365,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(365,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(370,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(370,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(372,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(372,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(395,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(395,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(395,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(395,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(396,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(396,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(396,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(396,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(397,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(397,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(397,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(397,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(398,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(398,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(398,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(398,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(399,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(399,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(399,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(399,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(400,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(400,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(400,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(400,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(401,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(401,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(401,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(401,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(402,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(402,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(402,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(402,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(403,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(403,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(403,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(403,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(404,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(404,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(404,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(404,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(405,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(405,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(405,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(405,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(406,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(406,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(406,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(406,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(412,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(441,80): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(471,80): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(500,80): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(126,10): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+External.cpp(125,9): warning C4189: 'fovcircle': local variable is initialized but not referenced
+External.cpp(132,10): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+External.cpp(131,9): warning C4189: 'fovcircle': local variable is initialized but not referenced
+External.cpp(130,9): warning C4189: 'square_fov': local variable is initialized but not referenced
+External.cpp(138,9): warning C4189: 'fovcircle': local variable is initialized but not referenced
+External.cpp(137,9): warning C4189: 'square_fov': local variable is initialized but not referenced
+External.cpp(179,7): warning C4189: 'MyTeamId': local variable is initialized but not referenced
+External.cpp(181,7): warning C4189: 'ActorTeamId': local variable is initialized but not referenced
+External.cpp(735,71): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(739,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(739,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(640,15): warning C4189: 'pBackgroundDrawList': local variable is initialized but not referenced
+External.cpp(639,15): warning C4189: 'pWindowDrawList': local variable is initialized but not referenced
+External.cpp(637,15): warning C4101: 'pDrawList': unreferenced local variable
+External.cpp(638,15): warning C4189: 'CurrentWindowPos': local variable is initialized but not referenced
+External.cpp(641,15): warning C4189: 'pForegroundDrawList': local variable is initialized but not referenced
+External.cpp(895,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+External.cpp(896,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\xor.hpp(222): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>::decrypt(void)'
+External.cpp(27): message : see reference to function template instantiation 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>::decrypt(void)' being compiled
+External.cpp(26): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>' being compiled
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(61,1): warning C4459: declaration of 'h' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(61): message : while compiling class template member function 'TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)'
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(206): message : see reference to function template instantiation 'TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)' being compiled
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(84): message : see reference to class template instantiation 'TScopedHandle<HANDLE,HANDLE_traits>' being compiled
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(48,1): warning C4459: declaration of 'h' hides global declaration
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(48): message : while compiling class template member function 'TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)'
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\WindowStreamProof.h(94): message : see reference to function template instantiation 'TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)' being compiled
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(165,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\Print.hpp(172,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\input.hpp(82,21): warning C4505: 'MouseController::GetAsyncKeyState': unreferenced function with internal linkage has been removed
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\driver.h(27): warning C4706: assignment within conditional expression
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\External.cpp(441): warning C4700: uninitialized local variable 'LOL' used
+C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\External.cpp(395): warning C4701: potentially uninitialized local variable 'ESPSkeleton' used
+  All 1899 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  loltf.vcxproj -> C:\Users\sensi\Desktop\Free External Source by LOLTF#4824\build\External_LOLTF.exe
